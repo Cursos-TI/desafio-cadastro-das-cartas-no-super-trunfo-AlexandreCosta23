@@ -18,9 +18,9 @@ int main() {
     // O bloco abaixo é para recebimento dos dados da carta 1.
 
     printf("As informações solicitadas a seguir são para o cadastrado da primeira carta \n");
-    printf(" Por favor insira o nome do Estado: \n");
+    printf(" Por favor insira a letra que representara o Estado (de A até H): \n");
     scanf("%s", estado_1);
-    printf(" Por favor insira o Codigo da Carta: \n");
+    printf(" Por favor insira a letra do estado com um número entre 01 a 04 para gerar o Codigo da Carta: \n");
     scanf("%s", cod_carta_1);
     printf(" Por favor insira o nome da Cidade: \n");
     scanf("%s", nomecidade_1);
@@ -36,9 +36,9 @@ int main() {
     // O bloco abaixo é para recebimento dos dados da carta 2.
 
     printf("As informações solicitadas a seguir são para o cadastrado da segunda carta \n");
-    printf(" Por favor insira o nome do Estado: \n");
+    printf(" Por favor insira a letra que representara o Estado (de A até H): \n");
     scanf("%s", estado_2);
-    printf(" Por favor insira o Codigo da Carta: \n");
+    printf(" Por favor insira a letra do estado com um número entre 01 a 04 para gerar o Codigo da Carta: \n");
     scanf("%s", cod_carta_2);
     printf(" Por favor insira o nome da Cidade: \n");
     scanf("%s", nomecidade_2);
