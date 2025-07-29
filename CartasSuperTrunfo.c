@@ -8,7 +8,7 @@ int main() {
     
     int  populacao_1,populacao_2,npontoturistico_1,npontoturistico_2;  
     float pib_1,pib_2,area_1,area_2;
-    char estado_1,estado_2;
+    char estado_1[50],estado_2[50];
     char nomecidade_1[50],nomecidade_2[50],cod_carta_1[50],cod_carta_2[50];
 
     // Abaixo será informado a mensagem de boas vindas e solicitação dos dados das cartas.
