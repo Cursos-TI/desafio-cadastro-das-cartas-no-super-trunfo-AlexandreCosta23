@@ -13,7 +13,7 @@ int main() {
 
     // Abaixo será informado a mensagem de boas vindas e solicitação dos dados das cartas.
     
-    printf("Olá bem vindo ao jogo Super Trunfo Países, logo abaixo cadastraremos as cartas!" \n);
+    printf("Olá bem vindo ao jogo Super Trunfo Países, logo abaixo cadastraremos as cartas! \n");
 
     // O bloco abaixo é para recebimento dos dados da carta 1.
 
